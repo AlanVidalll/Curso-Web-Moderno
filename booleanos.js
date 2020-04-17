@@ -3,7 +3,7 @@ let isAtivo = false
 console.log(isAtivo)
 
 // Aqui é o tradicional retorna true....
-isAtivo = true 
+isAtivo = true
 console.log(isAtivo)
 
 /* Aqui a variavel se tona un nunber, 
