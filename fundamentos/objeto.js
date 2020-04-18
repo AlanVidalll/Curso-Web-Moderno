@@ -1,0 +1,16 @@
+
+// [] se cria uma array {} se cria um objeto...
+const prod1 = {}
+//Criamos o atributo nome e o instaciamos o nome...
+prod1.nome = 'Celular Ultra Mega'
+//Criamos o atributo preço e o instaciamos o preço...
+prod1.preco = 785.90
+// imprimindo o objeto por completo...
+console.log(prod1)
+
+// Aqui declaramos os atributos dentro das chaves...
+const prod2 = {
+    nome: 'Camisa Polo',
+    preço: 79.90
+}
+console.log(prod2)
