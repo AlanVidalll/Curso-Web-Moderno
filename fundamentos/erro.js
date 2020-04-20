@@ -1,3 +1,5 @@
+// Tratamento de erro...
+
 function tratarErroELancar(erro) {
     //throw new Error ('....')
     //throw 10
