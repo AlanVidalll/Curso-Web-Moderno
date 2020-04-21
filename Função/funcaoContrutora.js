@@ -15,7 +15,7 @@ function Carro(velocidadeMaxima = 200, delta = 5) {
         return velocidadeAtual
     }
 }
-// Criamos um carro cahamdo ferrari
+// Criamos um carro chamado ferrari
 const ferrari = new Carro
 // Chamamos o metodo acelerar
 ferrari.acelerar()
