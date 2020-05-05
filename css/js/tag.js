@@ -27,4 +27,5 @@ document.querySelectorAll('.tag').forEach(elemento => {
         label.innerHTML = tagName
         elemento.insertBefore(label,elemento.childNodes[0])
     }
+    
 })
